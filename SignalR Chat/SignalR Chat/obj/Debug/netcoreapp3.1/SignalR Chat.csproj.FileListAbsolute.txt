@@ -1,0 +1,37 @@
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\bin\Debug\netcoreapp3.1\SignalR Chat.exe
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\bin\Debug\netcoreapp3.1\SignalR Chat.deps.json
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\bin\Debug\netcoreapp3.1\SignalR Chat.runtimeconfig.json
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\bin\Debug\netcoreapp3.1\SignalR Chat.runtimeconfig.dev.json
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\bin\Debug\netcoreapp3.1\SignalR Chat.dll
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\bin\Debug\netcoreapp3.1\SignalR Chat.pdb
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\bin\Debug\netcoreapp3.1\SignalR Chat.Views.dll
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\bin\Debug\netcoreapp3.1\SignalR Chat.Views.pdb
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.csprojAssemblyReference.cache
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.RazorAssemblyInfo.cache
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.RazorAssemblyInfo.cs
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.AssemblyInfo.cs
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.TagHelpers.input.cache
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.TagHelpers.output.cache
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.RazorCoreGenerate.cache
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.RazorTargetAssemblyInfo.cache
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.RazorTargetAssemblyInfo.cs
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.Views.pdb
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\staticwebassets\SignalR Chat.StaticWebAssets.Manifest.cache
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\staticwebassets\SignalR Chat.StaticWebAssets.xml
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.dll
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.pdb
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.genruntimeconfig.cache
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.csproj.CopyComplete
