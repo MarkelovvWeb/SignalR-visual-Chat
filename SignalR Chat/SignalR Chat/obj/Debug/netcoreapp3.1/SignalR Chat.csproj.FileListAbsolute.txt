@@ -35,3 +35,4 @@ C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj
 C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.pdb
 C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.genruntimeconfig.cache
 C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\obj\Debug\netcoreapp3.1\SignalR Chat.csproj.CopyComplete
+C:\Users\Влад\source\repos\SignalR-visual-Chat\SignalR Chat\SignalR Chat\bin\Debug\netcoreapp3.1\libman.json
